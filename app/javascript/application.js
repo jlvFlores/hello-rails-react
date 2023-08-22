@@ -1,11 +1,13 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React from "react";
+import ReactDOM from "react-dom";
+import { Provider } from "react-redux";
+import store from "./redux/store";
+import Greeting from "./components/Greeting.js";
 
-function App() {
-  return (<h1>Hello World!</h1>);
-}
-
-ReactDOM.render(
-  <App/>,
-  document.getElementById('root'),
+ReactDOM.createRoot(document.getElementById("root")).render(
+  <React.StrictMode>
+    <Provider store={store}>
+      <Greeting />
+    </Provider>
+  </React.StrictMode>
 );
