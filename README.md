@@ -29,7 +29,7 @@ The project is a lesson on how to setup a rails app with react.
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 RoR-budget-app <a name="about-project"></a>
+# 📖 hello-rails-react <a name="about-project"></a>
 
 The **hello-rails-react** displays a message in the root route of the app that is obtained from an API endpoint in this same app. The message is displayed using a react component.
 
@@ -186,8 +186,6 @@ If you like this project you can give me a hand by recommending me to potential 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank those who have motivated me to keep on fighting despite how tough the journey may become.
-
-**I'd also like to mention [Gregoire Vella](https://www.behance.net/gregoirevella) and his [design](https://www.behance.net/gallery/19759151/Snapscan-iOs-design-and-branding?tracking_source=) from which I took inspiration for this project.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
